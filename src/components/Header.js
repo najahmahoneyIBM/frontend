@@ -63,7 +63,7 @@ function Header({ setSearch }) {
 
                   <NavDropdown.Divider />
                   <NavDropdown.Item onClick={logoutHandler}>
-                    SignOut
+                    Sign Out
                   </NavDropdown.Item>
                 </NavDropdown>
               </>
