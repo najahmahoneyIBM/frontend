@@ -35,7 +35,7 @@ function LandingPage({ history }) {
                   size="lg"
                   className="landingbutton"
                 >
-                  Register
+                  Signup
                 </Button>
               </Link>
             </div>
