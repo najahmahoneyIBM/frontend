@@ -1,0 +1,8 @@
+applications:
+  - name: virtuadmin
+memory: 64M
+path: build/
+buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git #latest
+routes:
+  - route: virtuadmin.mybluemix.net
+  - route: virtu-admin.us-south.cf.appdomain.cloud
