@@ -20,7 +20,7 @@ function LandingPage({ history }) {
         <Row>
           <div className="intro-text">
             <div>
-              <h1 className="title">Virtu Admin Najah</h1>
+              <h1 className="title">Virtu Admin New</h1>
               <h2 className="subtitle"></h2>
             </div>
             <div className="buttonContainer">
@@ -35,7 +35,7 @@ function LandingPage({ history }) {
                   size="lg"
                   className="landingbutton"
                 >
-                  Signup
+                  Sign Up
                 </Button>
               </Link>
             </div>
