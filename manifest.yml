@@ -2,6 +2,6 @@ applications:
   - name: static-virtuadmin
 memory: 64M
 path: build/
-buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git #latest
+buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git#v1.7.47 #latest
 routes:
   - route: staticvirtuadmin.mybluemix.net
