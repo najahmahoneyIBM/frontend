@@ -130,7 +130,7 @@ function MyEmployees({ history, search }) {
                         </Row>
                         <Row>
                           <h5>
-                            Employment status - {employee.employmentStatus}
+                            Najah Employment status - {employee.employmentStatus}
                           </h5>{" "}
                         </Row>
                         <Row>
