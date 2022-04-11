@@ -1,5 +1,5 @@
 applications:
-  - name: true-virtuadmin
+  - name: true-virtuadmin-v1
 path: build/
 memory: 256M
 instances: 1
