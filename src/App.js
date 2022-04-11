@@ -18,7 +18,7 @@ function App() {
     <Router>
       <Header setSearch={(s) => setSearch(s)} />
       <main className="App">
-        <Route path="/" component={MyEmployees} exact />
+        <Route path="/" component={LandingPage} exact />
         <Route path="/login" component={LoginScreen} />
         <Route path="/register" component={RegisterScreen} />
         <Route
